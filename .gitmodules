@@ -1,0 +1,4 @@
+[submodule "CompressIQ-AI"]
+	path = CompressIQ-AI
+	url = https://github.com/Mvaidehi-1407/CompressIQ-AI.git
+	branch = master
